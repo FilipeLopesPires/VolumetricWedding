@@ -8,6 +8,14 @@ Back in 2022 when the pictures were taken, I couldn't even get a reconstruction 
 
 You can explore it [here](https://arrival.space/filipelopespires) (published on [Arrival.Space](https://github.com/arrival-space)). I'm sure in the future we'll reach a point where you'll be able to enjoy our actual faces!
 
+## Awards
+
+Volumetric Wedding was submitted to [The Polys](https://thepolys.com/) - Immersive Awards [Splat of the Year](https://thepolys.com/sploty/) and became a semi-finalist for the 2025 edition.
+If you would like to support my submission, upvote it [here](https://arrival.space/filipelopespires). You can check out all semi-finalists [here](https://arrival.space/sploty2025).
+
+<img alt="The Polys Immersive Awards Splat of the Year Semi-finalist Laurel Dark Mode" src="https://github.com/FilipeLopesPires/VolumetricWedding/blob/main/media/SPLOTY-Seminfinalist.svg#gh-dark-mode-only" width="25%">
+<img alt="The Polys Immersive Awards Splat of the Year Semi-finalist Laurel Light Mode" src="https://github.com/FilipeLopesPires/VolumetricWedding/blob/main/media/SPLOTY-Seminfinalist-dark.svg#gh-light-mode-only" width="25%">
+
 ## Contributions & Future Work
 
 If you believe you could help me achieve better results out of this challenging dataset, do reach out! 
