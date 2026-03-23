@@ -14,7 +14,7 @@ Volumetric Wedding was submitted to [The Polys](https://thepolys.com/) - Immersi
 If you would like to support my submission, upvote it through the [hub](https://arrival.space/sploty2025-hub4) (should be the door right in front). You can check out all semi-finalists [here](https://arrival.space/sploty2025). 
 
 <img alt="The Polys Immersive Awards Splat of the Year Semi-finalist Laurel Dark Mode" src="https://github.com/FilipeLopesPires/VolumetricWedding/blob/main/media/SPLOTY-Finalist.svg#gh-dark-mode-only" width="25%">
-<img alt="The Polys Immersive Awards Splat of the Year Semi-finalist Laurel Light Mode" src="https://github.com/FilipeLopesPires/VolumetricWedding/blob/main/media/SPLOTY-Finalist-dark.svg#gh-light-mode-only" width="25%">
+<img alt="The Polys Immersive Awards Splat of the Year Semi-finalist Laurel Light Mode" src="https://github.com/FilipeLopesPires/VolumetricWedding/blob/main/media/SPLOTY-Finalist-Dark.svg#gh-light-mode-only" width="25%">
 
 ## Contributions & Future Work
 
